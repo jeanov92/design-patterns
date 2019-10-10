@@ -1,4 +1,4 @@
-package pattern.builder.meal;
+package pattern.builder;
 
 import pattern.builder.interfaces.Item;
 

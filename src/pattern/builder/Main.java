@@ -1,6 +1,5 @@
 package pattern.builder;
 
-import pattern.builder.meal.Meal;
 import pattern.builder.model.burguer.ChickenBurguer;
 import pattern.builder.model.burguer.VegBurguer;
 import pattern.builder.model.colddrink.Coke;
